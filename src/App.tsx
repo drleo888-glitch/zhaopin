@@ -42,7 +42,7 @@ const MainApp: React.FC = () => {
             <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center mr-3">
               <span className="text-white font-bold text-lg">H</span>
             </div>
-            <h1 className="text-xl font-semibold text-gray-900">Health Check Portal / 体检门户</h1>
+            <h1 className="text-xl font-semibold text-gray-900">Pre-employment Medical Examination System</h1>
           </div>
           <div className="flex items-center space-x-4">
             <span className="text-sm font-medium text-gray-700 bg-gray-100 px-3 py-1 rounded-full">
